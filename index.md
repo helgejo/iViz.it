@@ -1,6 +1,3 @@
-# iVIZ.IT
-test
-
 ## Welcome to the iViz.it Project
 
 This is a project developed as part of the [Stavanger Smart City Hackaton](https://www.facebook.com/events/1933145800341371/).
