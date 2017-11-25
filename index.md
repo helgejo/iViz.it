@@ -1,4 +1,9 @@
-## Welcome to GitHub Pages
+# iVIZ.IT
+test
+
+## Welcome to the iViz.it Project
+
+This is a project developed as part of the [Stavanger Smart City Hackaton](https://www.facebook.com/events/1933145800341371/).
 
 You can use the [editor on GitHub](https://github.com/helgejo/iViz.it/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
