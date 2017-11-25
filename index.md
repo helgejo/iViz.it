@@ -2,38 +2,23 @@
 
 This is a project developed as part of the [Stavanger Smart City Hackaton](https://www.facebook.com/events/1933145800341371/).
 
-You can use the [editor on GitHub](https://github.com/helgejo/iViz.it/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Vision 
+With this project we want to improve the quality of life for the elderly to allow them to live at home longer.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Mission
+*	Create a smart elderly digitized service solution for our future smart city. 
+*	Digitized nurse work list to improve the quality and security to the elderly.
 
-### Markdown
+## Benefits
+*	Reduced nurse turnover
+* Reduced nurse sick leave
+* Reduced waiting time for users
+* Increased face time
+* Less time in traffic
+* Improved quality of life
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Project components
+[Project Presentation](http://prezi.com/-kzv8sz7zlwi/?utm_campaign=share&utm_medium=copy)
+[Code files](https://github.com/helgejo/iVizit)
+[Concept web app](https://pr.to/URWLBZ/)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/helgejo/iViz.it/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
