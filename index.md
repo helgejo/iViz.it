@@ -18,7 +18,7 @@ With this project we want to improve the quality of life for the elderly to allo
 * Improved quality of life
 
 ## Project components
-[Project Presentation](http://prezi.com/-kzv8sz7zlwi/?utm_campaign=share&utm_medium=copy)
-[Code files](https://github.com/helgejo/iVizit)
-[Concept web app](https://pr.to/URWLBZ/)
+* [Project Presentation](http://prezi.com/-kzv8sz7zlwi/?utm_campaign=share&utm_medium=copy)
+* [Code files](https://github.com/helgejo/iVizit)
+* [Concept web app](https://pr.to/URWLBZ/)
 
